@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Diego Iván García Escobedo
+
+**Diego Iván García Escobedo**
 
 I like to solve problems and create things.
 
