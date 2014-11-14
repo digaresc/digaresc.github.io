@@ -4,8 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I like to solve problems and create things.
+I'm very focused on creating relationships and generating movements.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Social
+blog
+linkedin
+github
+Projects
+Bridgefy
+Hackerspace Monterrey
+Also I've involved in projects like the first NASA Space Apps Challenge in Mexico, Sketch or Die and other ones.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Currently working in Bridgefy, a mobile messaging app that keeps you connected over long distances without internet or phone data.
+
+You can follow me on [Twitter](http://twitter.com/digaresc).
