@@ -2,7 +2,7 @@
 title: digaresc.info
 email: contact@digaresc.info
 description: > # this means to ignore newlines until "baseurl:"
-  I like to solve problems and create things.
+  I like to solve problems and create things
   I'm very focused on creating relationships and generating movements.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://digaresc.info" # the base hostname & protocol for your site
