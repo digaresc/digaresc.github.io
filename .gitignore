@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-_site
-.sass-cache
-=======
 _site/
 .sass-cache/
->>>>>>> 6327611d3e4dd2d474c4f3f250032712261532fe
+.idea/
+.DS_Store
